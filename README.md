@@ -1,5 +1,3 @@
-# mobo
-
 ## Table of Contents
 
 1. [Overview](#Overview)
@@ -27,5 +25,4 @@ mobo app is a gym workout tracker with an AI element that helps users track prog
 
 **Optional Nice-to-have Stories**
 - [ ] Social challenges, users can connect with friends to see who is working out more
-
 
