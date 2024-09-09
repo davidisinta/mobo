@@ -39,18 +39,21 @@
 | ID  | User Story Description                                       | Priority  | Status  |
 | --- | -------------------------------------------------------------| --------- | ------- |
 | 001 | As a user, I want to login and logout             | High      |  | To Do   |
-| 002 | As an admin, I want to [admin goal] so that [reason]          |  | In Progress |
+| 002 | As a user, I want to be able to set my fitness goals & log workouts         | High | To Do |
 
 #### Tasks
 | Task ID | Description                               | Related User Story | Estimation (Hours) | Status  |
 | ------- | ----------------------------------------- | ------------------ | ------------------ | ------- |
-| T001    | Implement authentication flow             | 001                | 6                  | To Do   |
-| T002    | Create database models                    | 002                | 4                  | In Progress |
+| T001    | Implement authentication flow             | 001                | 4                  | To Do   |
+| T002    | Create database models                    | 001                | 8                  | To Do |
+|T003     | User Can Set Their Fitness Goals          |  002                  | 5                  |      To Do         |
+|T004     | User can log their workouts. (sets, reps, weights) |    002       | 5                   |    To Do        |
+
 
 #### Bugs
 | Bug ID  | Description                               | Priority  | Estimation (Hours) | Status  |
 | ------- | ----------------------------------------- | --------- | ------------------ | ------- |
-| B001    | Fix crash on app startup                  | High      | 2                  | To Do   |
+|    |                  |      |                  |    |
 
 ---
 
