@@ -7,7 +7,7 @@
 
 ### Description
 
-mobo app is a gym workout tracker with an AI element that helps users track progress and recommend different workouts based on their goals. This repo will build out the API that performs the core Application logic.
+mobo app is a gym workout tracker with an AI element that helps users track progress and recommend different workouts based on their goals. This repo will build out the API that performs the core Application logic. This Repo encapsulates the Java Backend that integrates the core CRUD functionalities.
 
 ## Product Spec
 
