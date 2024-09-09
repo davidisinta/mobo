@@ -31,15 +31,15 @@
 
 # Sprints Overview
 
-### Sprint 1 - [Sprint Name] - [Start Date] to [End Date]
+### Sprint 1 - [CRUD] - [Sep 8th] to [Sep 18th]
 #### Sprint Goal
-- Brief description of the goal for Sprint 1.
+- Build & Deploy the API to azure with basic CRUD functions.
 
 #### User Stories
-| ID  | User Story Description                                       | Priority  | Estimation (Story Points) | Assignee  | Status  |
-| --- | -------------------------------------------------------------| --------- | ------------------------- | --------- | ------- |
-| 001 | As a user, I want to [user goal] so that [reason]             | High      | 5                         | [Name]    | To Do   |
-| 002 | As an admin, I want to [admin goal] so that [reason]          | Medium    | 3                         | [Name]    | In Progress |
+| ID  | User Story Description                                       | Priority  | Status  |
+| --- | -------------------------------------------------------------| --------- | ------- |
+| 001 | As a user, I want to login and logout             | High      |  | To Do   |
+| 002 | As an admin, I want to [admin goal] so that [reason]          |  | In Progress |
 
 #### Tasks
 | Task ID | Description                               | Related User Story | Estimation (Hours) | Assignee  | Status  |
