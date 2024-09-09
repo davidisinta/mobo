@@ -8,6 +8,25 @@
 - **End Date:** [Nov 9]
 - **Project Goal:** [Gym progress tracker and AI powered workout suggestions]
 
+# High-Level Sprint Planning
+
+### Plan the Core Architecture:
+- Design the app in a modular way with REST APIs, so the backend (Spring Boot) can handle all business logic, while the front-end (mobile or web) communicates via APIs.
+- Use Spring Security for user authentication and role-based access (e.g., admin for managing exercises).
+
+### Set Up a Reliable Database:
+- Use Spring Data JPA for relational databases or Spring Data MongoDB for NoSQL databases. Ensure the user, workout, exercise, and progress data are efficiently stored.
+- Build out the database schema first, allowing for flexibility in expanding features (e.g., adding nutrition tracking later).
+
+### Create a Fluid and Intuitive UI:
+- Ensure the user interface is intuitive, especially for logging workouts and tracking progress.
+- Use front-end frameworks like React.js or Angular for dynamic, responsive UIs.
+
+### Test with Real Users:
+- Collect feedback from gym-goers, fitness enthusiasts, or personal trainers to improve usability and features.
+- Perform user testing with different fitness levels to ensure the app caters to both beginners and experienced users.
+
+
 ---
 
 # Sprints Overview
