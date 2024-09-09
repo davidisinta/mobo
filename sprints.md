@@ -42,15 +42,15 @@
 | 002 | As an admin, I want to [admin goal] so that [reason]          |  | In Progress |
 
 #### Tasks
-| Task ID | Description                               | Related User Story | Estimation (Hours) | Assignee  | Status  |
-| ------- | ----------------------------------------- | ------------------ | ------------------ | --------- | ------- |
-| T001    | Implement authentication flow             | 001                | 6                  | [Name]    | To Do   |
-| T002    | Create database models                    | 002                | 4                  | [Name]    | In Progress |
+| Task ID | Description                               | Related User Story | Estimation (Hours) | Status  |
+| ------- | ----------------------------------------- | ------------------ | ------------------ | ------- |
+| T001    | Implement authentication flow             | 001                | 6                  | To Do   |
+| T002    | Create database models                    | 002                | 4                  | In Progress |
 
 #### Bugs
-| Bug ID  | Description                               | Priority  | Estimation (Hours) | Assignee  | Status  |
-| ------- | ----------------------------------------- | --------- | ------------------ | --------- | ------- |
-| B001    | Fix crash on app startup                  | High      | 2                  | [Name]    | To Do   |
+| Bug ID  | Description                               | Priority  | Estimation (Hours) | Status  |
+| ------- | ----------------------------------------- | --------- | ------------------ | ------- |
+| B001    | Fix crash on app startup                  | High      | 2                  | To Do   |
 
 ---
 
