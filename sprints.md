@@ -31,14 +31,14 @@
 
 # Sprints Overview
 
-### Sprint 1 - [CRUD] - [Sep 8th] to [Sep 18th]
+### Sprint 1 - [CRUD] - [Sep 8th] to [Sep 24th]
 #### Sprint Goal
 - Build & Deploy the API to azure with basic CRUD functions.
 
 #### User Stories
 | ID  | User Story Description                                       | Priority  | Status  |
 | --- | -------------------------------------------------------------| --------- | ------- |
-| 001 | As a user, I want to login and logout             | High      |  | To Do   |
+| 001 | As a user, I want to login and logout             | High      |  To Do   |
 | 002 | As a user, I want to be able to set my fitness goals & log workouts         | High | To Do |
 
 #### Tasks
@@ -53,7 +53,7 @@
 #### Bugs
 | Bug ID  | Description                               | Priority  | Estimation (Hours) | Status  |
 | ------- | ----------------------------------------- | --------- | ------------------ | ------- |
-|    |                  |      |                  |    |
+|  B001  |                  |      |                  |    |
 
 ---
 
@@ -64,19 +64,19 @@
 #### User Stories
 | ID  | User Story Description                                       | Priority  | Status  |
 | --- | -------------------------------------------------------------| --------- | ------- |
-| 001 | As a user, I want to login and logout             | High      |  | To Do   |
-| 002 | As an admin, I want to [admin goal] so that [reason]          |  | In Progress |
+| 001 |      |       |   |
+| 002 |         |  |  |
 
 #### Tasks
 | Task ID | Description                               | Related User Story | Estimation (Hours) | Status  |
 | ------- | ----------------------------------------- | ------------------ | ------------------ | ------- |
-| T001    | Implement authentication flow             | 001                | 6                  | To Do   |
-| T002    | Create database models                    | 002                | 4                  | In Progress |
+| T001    |          |              |               |    |
+| T002    |                |            |       |  |
 
 #### Bugs
 | Bug ID  | Description                               | Priority  | Estimation (Hours) | Status  |
 | ------- | ----------------------------------------- | --------- | ------------------ | ------- |
-| B001    | Fix crash on app startup                  | High      | 2                  | To Do   |
+| B001    |                   |       |         |   |
 
 ---
 
@@ -87,19 +87,20 @@
 #### User Stories
 | ID  | User Story Description                                       | Priority  | Status  |
 | --- | -------------------------------------------------------------| --------- | ------- |
-| 001 | As a user, I want to login and logout             | High      |  | To Do   |
-| 002 | As an admin, I want to [admin goal] so that [reason]          |  | In Progress |
+| 001 |      |       |   |
+| 002 |         |  |  |
 
 #### Tasks
 | Task ID | Description                               | Related User Story | Estimation (Hours) | Status  |
 | ------- | ----------------------------------------- | ------------------ | ------------------ | ------- |
-| T001    | Implement authentication flow             | 001                | 6                  | To Do   |
-| T002    | Create database models                    | 002                | 4                  | In Progress |
+| T001    |          |              |               |    |
+| T002    |                |            |       |  |
 
 #### Bugs
 | Bug ID  | Description                               | Priority  | Estimation (Hours) | Status  |
 | ------- | ----------------------------------------- | --------- | ------------------ | ------- |
-| B001    | Fix crash on app startup                  | High      | 2                  | To Do   |
+| B001    |                   |       |         |   |
+
 
 ---
 
